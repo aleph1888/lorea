@@ -1,0 +1,3 @@
+[submodule "mod/group_operators"]
+	path = mod/group_operators
+	url = git@github.com:lorea/group_operators.git
