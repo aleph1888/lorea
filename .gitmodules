@@ -1,6 +1,6 @@
 [submodule "mod/group_operators"]
 	path = mod/group_operators
-	url = git://github.com/lorea/group_operators.git
+	url = https://github.com/lorea/group_operators.git
 [submodule "mod/dokuwiki"]
 	path = mod/dokuwiki
-	url = git://github.com/lorea/dokuwiki.git
+	url = https://github.com/lorea/dokuwiki.git
